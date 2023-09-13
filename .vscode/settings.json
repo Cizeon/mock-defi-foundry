@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "[solidity]": {
+        "editor.defaultFormatter": "JuanBlanco.solidity",
+        "editor.tabSize": 4,
+        "editor.rulers": [120]
+    },
+    "solidity.formatter": "prettier",
+    "solidity.linter": "solhint",
+    "solidity.compileUsingRemoteVersion": "v0.8.19",
+    "solidity.packageDefaultDependenciesContractsDirectory": "src",
+    "solidity.packageDefaultDependenciesDirectory": "lib",
+    "solidity.defaultCompiler": "localFile"
+}

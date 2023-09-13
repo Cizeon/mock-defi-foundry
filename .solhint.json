@@ -1,0 +1,8 @@
+{
+    "extends": "solhint:recommended",
+    "rules": {
+        "no-console": false,
+        "no-global-import": false,
+        "compiler-version": false
+    }
+}
